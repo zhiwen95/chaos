@@ -73,6 +73,3 @@ dns:
     geoip: false
     ipcidr:
     # - 240.0.0.0/4
-Proxy: ~
-Proxy Group: ~
-Rule: ~
